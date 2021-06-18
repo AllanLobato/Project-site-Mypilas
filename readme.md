@@ -1,1 +1,1 @@
-Olá, este é um site que fez parte dos meus estudos de HTML e CSS.
+This is a website that was part of my HTML and CSS studies.
